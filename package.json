@@ -1,0 +1,20 @@
+{
+  "name": "Web-App-Boilerplate",
+  "version": "1.0.0",
+  "description": "Boiler Plate for a Web App created with React, &amp; Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierChanth/Web-App-Boilerplate.git"
+  },
+  "keywords": [],
+  "author": "XavierChanth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XavierChanth/Web-App-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/XavierChanth/Web-App-Boilerplate#readme"
+}
